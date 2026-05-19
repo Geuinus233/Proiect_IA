@@ -507,4 +507,3 @@ if __name__ == '__main__':
     system = AutomatedParkingSystem()
     print("Starting Automated Parking System...")
     system.run()
-    
